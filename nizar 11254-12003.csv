@@ -249,22 +249,22 @@ inpuy absensi tm PEYMTS|Untuk memasukkan absensi TM PEYMTS, Anda harus mengakses
 input presensi VK17F6|Presensi VK17F6 telah dicatat.
 input presensi W44FW3|Presensi W44FW3 telah dicatat.
 input 2FVHXP|2FVHXP is not a valid input.
-input presensi PZ4ZJZ|\nTerima kasih telah melakukan presensi dengan kode PZ4ZJZ.
-input presensi 5XQELW|\n\nTerima kasih telah menginput presensi 5XQELW.
-input presensi VD3DQA|\n\nTerima kasih telah melakukan presensi VD3DQA.
-input presensi VD3DQA|\n\nTerima kasih telah melakukan presensi VD3DQA.
-input presensi 6QQWQT|\n\n6QQWQT is not a valid input for presensi.
-input presensi 5S3SRR|\n\nSelamat datang 5S3SRR. Terima kasih telah melakukan presensi.
-input presensi 4BIG8W|\n\nPresensi 4BIG8W telah dicatat. Terima kasih.
-input presensi XZPVZ8|\n\nXZPVZ8 tidak terdaftar dalam sistem presensi.
-input presensi 77M7WB|\n\nTerima kasih telah melakukan presensi hari ini.
-input presensi FXPBEJ|\n\nPresensi FXPBEJ dicatat. Terima kasih.
-minta transkrip nilai|\n\nNama : Andi\n\nMata Pelajaran : Matematika\n\nNilai :\n\nSemester 1 : 90\nSemester 2 : 85\nSemester 3 : 88\nSemester 4 : 92
-input presensi ZRIDLZ|\n\nTerima kasih telah melakukan presensi, ZRIDLZ.
-input presensi Y1VMW3|\n\nMaaf, saya tidak mengerti pertanyaan Anda. Mohon dijelaskan lebih lanjut.
-input presensi Y1VMW3|\n\nMaaf, saya tidak mengerti pertanyaan Anda. Mohon dijelaskan lebih lanjut.
-input presensi 74MDSC|\n\nTerima kasih telah melakukan presensi 74MDSC.
-input presensi Y1VMW3|\n\nMaaf, saya tidak mengerti pertanyaan Anda. Mohon dijelaskan lebih lanjut.
+input presensi PZ4ZJZ|Terima kasih telah melakukan presensi dengan kode PZ4ZJZ.
+input presensi 5XQELW|Terima kasih telah menginput presensi 5XQELW.
+input presensi VD3DQA|Terima kasih telah melakukan presensi VD3DQA.
+input presensi VD3DQA|Terima kasih telah melakukan presensi VD3DQA.
+input presensi 6QQWQT|6QQWQT is not a valid input for presensi.
+input presensi 5S3SRR|Selamat datang 5S3SRR. Terima kasih telah melakukan presensi.
+input presensi 4BIG8W|Presensi 4BIG8W telah dicatat. Terima kasih.
+input presensi XZPVZ8|XZPVZ8 tidak terdaftar dalam sistem presensi.
+input presensi 77M7WB|Terima kasih telah melakukan presensi hari ini.
+input presensi FXPBEJ|Presensi FXPBEJ dicatat. Terima kasih.
+minta transkrip nilai|Nama : AndiMata Pelajaran : MatematikaNilai :Semester 1 : 90Semester 2 : 85Semester 3 : 88Semester 4 : 92
+input presensi ZRIDLZ|Terima kasih telah melakukan presensi, ZRIDLZ.
+input presensi Y1VMW3|Maaf, saya tidak mengerti pertanyaan Anda. Mohon dijelaskan lebih lanjut.
+input presensi Y1VMW3|Maaf, saya tidak mengerti pertanyaan Anda. Mohon dijelaskan lebih lanjut.
+input presensi 74MDSC|Terima kasih telah melakukan presensi 74MDSC.
+input presensi Y1VMW3|Maaf, saya tidak mengerti pertanyaan Anda. Mohon dijelaskan lebih lanjut.
 input presensi ZG3KNX|\n\nPresensi ZG3KNX telah dikirim.
 input presensi Y1VWM3|\n\nY1VWM3 adalah kode untuk mengakses sistem presensi online. Kode ini digunakan untuk memverifikasi identitas pengguna dan memungkinkan mereka untuk mengakses sistem presensi. Setelah memasukkan kode ini, pengguna dapat mengakses sistem presensi dan melakukan berbagai tugas seperti mencatat presensi, meninjau laporan presensi, dan mengatur pengaturan presensi.
 input presensi TY2LFN|\n\n| Nama | Hadir |\n| --- | --- |\n| Andi | Ya |\n| Budi | Ya |\n| Caca | Tidak |
