@@ -278,26 +278,26 @@ input presensi UHFXFV| UHFXFV adalah kode presensi yang tidak dikenal. Silakan c
 input presensi 4Z9KIG| Terima kasih telah melakukan presensi 4Z9KIG.
 input presensi Y6VU17| Untuk mengakses input presensi Y6VU17, Anda harus masuk ke sistem informasi akademik universitas. Setelah masuk, Anda dapat menemukan input presensi Y6VU17 di menu Presensi Mahasiswa.
 input presensi MGMGWD| Presensi MGMGWD telah dicatat.
-input presensi YCLWU2|\n\nYCLWU2 adalah kode presensi yang digunakan oleh Yayasan Cinta Anak Bangsa untuk mencatat kehadiran para siswa. Kode ini terdiri dari empat huruf dan dua angka. Huruf pertama dan kedua menunjukkan kelas siswa, angka pertama menunjukkan bulan dan angka kedua menunjukkan tahun. Sebagai contoh, YCLWU2 dapat berarti bahwa siswa tersebut berada di kelas WU pada bulan Februari tahun 2020.
-input presensi CAKDPR|\n\nTerima kasih telah melakukan presensi CAKDPR.
-input presensi TNNXWF|\n\nTNNXWF: Hadir
-input presensi 917BU6|\n\n917BU6 telah hadir.
-input presensi M5BRGA|\n\nM5BRGA adalah kode presensi yang digunakan untuk menandai kehadiran seseorang di suatu tempat. Kode ini biasanya digunakan untuk mencatat waktu masuk dan keluar dari suatu lokasi.
-input presensi MGMGWD|\n\nPresensi MGMGWD telah dicatat.
-input presensi NU5765|\n\nNU5765 hadir pada hari Senin, tanggal 15 Februari 2021.
-input presensi GVTY62|\n\nTerima kasih telah melakukan presensi dengan kode GVTY62.
-input presensi Q8T5WV|\n\nQ8T5WV hadir pada hari ini.
-input presensi 2EDA81|\n\nInput presensi 2EDA81 dapat dilakukan dengan menggunakan aplikasi presensi yang telah disediakan oleh pihak sekolah. Aplikasi ini dapat diakses melalui website sekolah atau melalui aplikasi mobile yang tersedia di Google Play Store. Setelah masuk ke aplikasi, pengguna dapat memasukkan data presensi siswa, seperti nama, kelas, dan waktu masuk dan keluar. Data presensi akan disimpan secara otomatis dan dapat diakses oleh pihak sekolah untuk mengecek presensi siswa.
-input presensi UR3RV8|\n\nTerima kasih telah menginput presensi UR3RV8.
-input presensi YCLWU2|\n\nYCLWU2 adalah kode presensi yang digunakan oleh Yayasan Cinta Anak Bangsa untuk mencatat kehadiran para siswa. Kode ini terdiri dari empat huruf dan dua angka. Huruf pertama dan kedua menunjukkan kelas siswa, angka pertama menunjukkan bulan dan angka kedua menunjukkan tahun. Sebagai contoh, YCLWU2 dapat berarti bahwa siswa tersebut berada di kelas WU pada bulan Februari tahun 2020.
-input presensi 4GF7BJ|\n\nInput presensi 4GF7BJ dapat dilakukan dengan menggunakan aplikasi presensi yang telah disediakan oleh perusahaan. Aplikasi ini biasanya memiliki fitur untuk memasukkan kode 4GF7BJ dan menandai bahwa karyawan telah hadir.
-input presensi LJZ1AE|\n\nTerima kasih telah melakukan presensi LJZ1AE.
-input presensi P4JPD1|\n\nP4JPD1 adalah singkatan dari Program Pemberdayaan Perempuan dan Anak (P4A) di Daerah Istimewa Yogyakarta. Program ini ditujukan untuk meningkatkan kesejahteraan perempuan dan anak di Yogyakarta. Program ini mencakup berbagai kegiatan, seperti pelatihan, pendampingan, dan bantuan hukum.\n\nUntuk mencatat presensi peserta P4JPD1, para peserta harus mengisi formulir presensi yang tersedia di lokasi kegiatan. Formulir presensi ini berisi informasi seperti nama peserta, tanggal kegiatan, dan jam kegiatan. Setelah mengisi formulir presensi, para peserta harus menandatangani formulir tersebut untuk mengkonfirmasi bahwa mereka hadir di kegiatan.
-input presensi 1YNAN1|\nMaaf, input yang Anda masukkan salah. Silakan coba lagi.
-input presensi Y51QWQ|\n\nTerima kasih telah melakukan presensi dengan kode Y51QWQ.
-input presensi VM91P4|\n\nPresensi VM91P4 dapat dilakukan dengan menggunakan aplikasi absensi online. Aplikasi ini memungkinkan pengguna untuk mencatat presensi dengan mudah dan cepat. Pengguna dapat mengakses aplikasi ini melalui web browser atau aplikasi mobile. Aplikasi ini juga memungkinkan pengguna untuk mengatur jadwal presensi, mencatat waktu masuk dan keluar, dan melacak data presensi. Aplikasi ini juga memungkinkan pengguna untuk mengirimkan laporan presensi kepada atasan.
-input presensi P89RLL|\n\nPresensi P89RLL telah dicatat. Terima kasih.
-input presensi J6MQTY|\n\nPresensi J6MQTY tidak ditemukan. Silakan cek kembali kode presensi yang Anda masukkan.
+input presensi YCLWU2| YCLWU2 adalah kode presensi yang digunakan oleh Yayasan Cinta Anak Bangsa untuk mencatat kehadiran para siswa. Kode ini terdiri dari empat huruf dan dua angka. Huruf pertama dan kedua menunjukkan kelas siswa, angka pertama menunjukkan bulan dan angka kedua menunjukkan tahun. Sebagai contoh, YCLWU2 dapat berarti bahwa siswa tersebut berada di kelas WU pada bulan Februari tahun 2020.
+input presensi CAKDPR| Terima kasih telah melakukan presensi CAKDPR.
+input presensi TNNXWF| TNNXWF: Hadir
+input presensi 917BU6| 917BU6 telah hadir.
+input presensi M5BRGA| M5BRGA adalah kode presensi yang digunakan untuk menandai kehadiran seseorang di suatu tempat. Kode ini biasanya digunakan untuk mencatat waktu masuk dan keluar dari suatu lokasi.
+input presensi MGMGWD| Presensi MGMGWD telah dicatat.
+input presensi NU5765| NU5765 hadir pada hari Senin, tanggal 15 Februari 2021.
+input presensi GVTY62| Terima kasih telah melakukan presensi dengan kode GVTY62.
+input presensi Q8T5WV| Q8T5WV hadir pada hari ini.
+input presensi 2EDA81| Input presensi 2EDA81 dapat dilakukan dengan menggunakan aplikasi presensi yang telah disediakan oleh pihak sekolah. Aplikasi ini dapat diakses melalui website sekolah atau melalui aplikasi mobile yang tersedia di Google Play Store. Setelah masuk ke aplikasi, pengguna dapat memasukkan data presensi siswa, seperti nama, kelas, dan waktu masuk dan keluar. Data presensi akan disimpan secara otomatis dan dapat diakses oleh pihak sekolah untuk mengecek presensi siswa.
+input presensi UR3RV8| Terima kasih telah menginput presensi UR3RV8.
+input presensi YCLWU2| YCLWU2 adalah kode presensi yang digunakan oleh Yayasan Cinta Anak Bangsa untuk mencatat kehadiran para siswa. Kode ini terdiri dari empat huruf dan dua angka. Huruf pertama dan kedua menunjukkan kelas siswa, angka pertama menunjukkan bulan dan angka kedua menunjukkan tahun. Sebagai contoh, YCLWU2 dapat berarti bahwa siswa tersebut berada di kelas WU pada bulan Februari tahun 2020.
+input presensi 4GF7BJ| Input presensi 4GF7BJ dapat dilakukan dengan menggunakan aplikasi presensi yang telah disediakan oleh perusahaan. Aplikasi ini biasanya memiliki fitur untuk memasukkan kode 4GF7BJ dan menandai bahwa karyawan telah hadir.
+input presensi LJZ1AE| Terima kasih telah melakukan presensi LJZ1AE.
+input presensi P4JPD1| P4JPD1 adalah singkatan dari Program Pemberdayaan Perempuan dan Anak (P4A) di Daerah Istimewa Yogyakarta. Program ini ditujukan untuk meningkatkan kesejahteraan perempuan dan anak di Yogyakarta. Program ini mencakup berbagai kegiatan, seperti pelatihan, pendampingan, dan bantuan hukum. Untuk mencatat presensi peserta P4JPD1, para peserta harus mengisi formulir presensi yang tersedia di lokasi kegiatan. Formulir presensi ini berisi informasi seperti nama peserta, tanggal kegiatan, dan jam kegiatan. Setelah mengisi formulir presensi, para peserta harus menandatangani formulir tersebut untuk mengkonfirmasi bahwa mereka hadir di kegiatan.
+input presensi 1YNAN1| Maaf, input yang Anda masukkan salah. Silakan coba lagi.
+input presensi Y51QWQ| Terima kasih telah melakukan presensi dengan kode Y51QWQ.
+input presensi VM91P4| Presensi VM91P4 dapat dilakukan dengan menggunakan aplikasi absensi online. Aplikasi ini memungkinkan pengguna untuk mencatat presensi dengan mudah dan cepat. Pengguna dapat mengakses aplikasi ini melalui web browser atau aplikasi mobile. Aplikasi ini juga memungkinkan pengguna untuk mengatur jadwal presensi, mencatat waktu masuk dan keluar, dan melacak data presensi. Aplikasi ini juga memungkinkan pengguna untuk mengirimkan laporan presensi kepada atasan.
+input presensi P89RLL| Presensi P89RLL telah dicatat. Terima kasih.
+input presensi J6MQTY| Presensi J6MQTY tidak ditemukan. Silakan cek kembali kode presensi yang Anda masukkan.
 input presensi GVTY62|\n\nTerima kasih telah melakukan presensi dengan kode GVTY62.
 input presensi NU5765|\n\nNU5765 hadir pada hari Senin, tanggal 15 Februari 2021.
 input presensi CAKDPR|\n\nTerima kasih telah melakukan presensi CAKDPR.
