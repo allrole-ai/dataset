@@ -418,36 +418,36 @@ input presensi absen 68KSSS| Presensi absen 68KSSS telah dicatat.
 input presensi absen NAJGMF| Terima kasih atas partisipasi Anda dalam presensi absen NAJGMF.
 input presensi absen NAJGMF| Terima kasih atas partisipasi Anda dalam presensi absen NAJGMF.
 input presensi absen FG9TQM| Presensi absen FG9TQM dapat dilakukan dengan menggunakan aplikasi absensi yang disediakan oleh pihak manajemen. Aplikasi ini dapat diakses melalui komputer atau smartphone. Pengguna dapat memasukkan data absensi mereka dengan mengisi kolom yang tersedia, seperti nama, tanggal, jam masuk, jam pulang, dan lain-lain. Setelah data absensi dimasukkan, maka data tersebut akan dikirimkan ke pihak manajemen untuk dicatat dan dianalisis.
-input presensi absen 4LMENJ|\n\nSelamat pagi,\n\nTerima kasih telah hadir tepat waktu di kelas kita hari ini. Silakan masukkan presensi Anda dengan mengisi kolom berikut:\n\nNama: \nStatus Kehadiran: \nJam Masuk: \nJam Keluar:
-input presensi  GE1YZ6|\n\nGE1YZ6 hadir pada hari Senin, Selasa, Rabu, Kamis, dan Jumat.
-input presensi 1CU9J6|\n\nTerima kasih telah melakukan presensi 1CU9J6.
-input presensi GE1YZ6|\n\nGE1YZ6 adalah kode kelas yang digunakan untuk mengidentifikasi kelas tertentu. Oleh karena itu, tidak ada input presensi khusus untuk kode kelas ini. Input presensi biasanya berupa nama siswa, tanggal, dan waktu masuk kelas.
-input presensi absen E76RBI|\n\nPresensi absen E76RBI telah dicatat.
-input presensi absen 1CU9J6|\n\nTerima kasih telah melakukan presensi absen 1CU9J6.
-input presensi absen NAJGMF|\n\nTerima kasih atas partisipasi Anda dalam presensi absen NAJGMF.
-input presensi absen 13XVKZ|\n\nTerima kasih telah melakukan presensi absen 13XVKZ.
-input presensi absen 4LMENJ|\n\nSelamat pagi,\n\nTerima kasih telah hadir tepat waktu di kelas kita hari ini. Silakan masukkan presensi Anda dengan mengisi kolom berikut:\n\nNama: \nStatus Kehadiran: \nJam Masuk: \nJam Keluar:
-input presensi GE1YZ6|\n\nGE1YZ6 adalah kode kelas yang digunakan untuk mengidentifikasi kelas tertentu. Oleh karena itu, tidak ada input presensi khusus untuk kode kelas ini. Presensi dapat dicatat dengan menggunakan nama atau nomor identitas siswa.
-input presensi absen 2CWEL4|\n\nInput presensi absen 2CWEL4 telah berhasil dilakukan.
-input presensi absen MZJFFJ|\n\nMa'ruf Zainul Jannah Fadillah Fauzi Jazuli
-input presensi absen 4ZLL2J|\n\nPresensi absen 4ZLL2J tidak ditemukan.
-input presensi absen 58II3N|\n\nPresensi absen 58II3N dikonfirmasi.
-input presensi absen 58II3N|\n\nPresensi absen 58II3N dikonfirmasi.
-input presensi absen MZJFFJ|\n\nMa'ruf Zainul Jannah, Fadilah Firdaus, Jannah Fadilah
-input presensi absen 4ZLL2J|\n\nPresensi absen 4ZLL2J tidak ditemukan.
-input presensi absen 3S3A54|\n\nPresensi absen 3S3A54 dicatat.
-input presensi absen MZJFFJ|\n\nMa'ruf Zainul Jannah, Fadilah Firdaus, Jannah Fadilah
-input presensi absen 3S3A54|\n\nPresensi absen 3S3A54 dicatat.
-input presensi absen NAJGMF|\n\nTerima kasih atas partisipasi Anda dalam presensi absen NAJGMF.
-Tes|sellationControlShader\n
-input presensi AWGE5K|\n\nPresensi AWGE5K dapat dilakukan dengan menggunakan aplikasi presensi yang disediakan oleh pihak manajemen. Aplikasi ini dapat diunduh melalui toko aplikasi atau situs web resmi AWGE5K. Setelah aplikasi terinstal, pengguna dapat memasukkan informasi login dan mulai mencatat presensi. Aplikasi ini juga memungkinkan pengguna untuk melihat riwayat presensi mereka dan mencetak laporan presensi.
-input presensi absen 7KMZFJ|\n\n7KMZFJ adalah kode presensi yang digunakan untuk menandai kehadiran seseorang. Kode ini biasanya digunakan untuk mencatat waktu masuk dan keluar dari suatu lokasi atau untuk mencatat waktu masuk dan keluar dari suatu pekerjaan.
-input presensi absen 7KMZFJ|\n\n7KMZFJ adalah kode presensi yang digunakan untuk menandai kehadiran seseorang. Kode ini biasanya digunakan untuk mencatat waktu masuk dan keluar dari suatu lokasi atau untuk mencatat waktu masuk dan keluar dari suatu pekerjaan.
-ibuu maaff Aldira aprilia juwita putri hadir yaa inya takut ga rekap absen|\n\nHai Aldira Aprilia Juwita Putri, maaf kami tidak bisa membantu Anda untuk melakukan rekap absen. Anda harus menghubungi pihak sekolah atau kantor Anda untuk informasi lebih lanjut tentang cara melakukan rekap absen. Terima kasih."
+input presensi absen 4LMENJ| Selamat pagi, Terima kasih telah hadir tepat waktu di kelas kita hari ini. Silakan masukkan presensi Anda dengan mengisi kolom berikut: Nama: \nStatus Kehadiran: \nJam Masuk: \nJam Keluar:
+input presensi  GE1YZ6| GE1YZ6 hadir pada hari Senin, Selasa, Rabu, Kamis, dan Jumat.
+input presensi 1CU9J6| Terima kasih telah melakukan presensi 1CU9J6.
+input presensi GE1YZ6| GE1YZ6 adalah kode kelas yang digunakan untuk mengidentifikasi kelas tertentu. Oleh karena itu, tidak ada input presensi khusus untuk kode kelas ini. Input presensi biasanya berupa nama siswa, tanggal, dan waktu masuk kelas.
+input presensi absen E76RBI| Presensi absen E76RBI telah dicatat.
+input presensi absen 1CU9J6| Terima kasih telah melakukan presensi absen 1CU9J6.
+input presensi absen NAJGMF| Terima kasih atas partisipasi Anda dalam presensi absen NAJGMF.
+input presensi absen 13XVKZ| Terima kasih telah melakukan presensi absen 13XVKZ.
+input presensi absen 4LMENJ| Selamat pagi, Terima kasih telah hadir tepat waktu di kelas kita hari ini. Silakan masukkan presensi Anda dengan mengisi kolom berikut: Nama: \nStatus Kehadiran: \nJam Masuk: \nJam Keluar:
+input presensi GE1YZ6| GE1YZ6 adalah kode kelas yang digunakan untuk mengidentifikasi kelas tertentu. Oleh karena itu, tidak ada input presensi khusus untuk kode kelas ini. Presensi dapat dicatat dengan menggunakan nama atau nomor identitas siswa.
+input presensi absen 2CWEL4| Input presensi absen 2CWEL4 telah berhasil dilakukan.
+input presensi absen MZJFFJ| Ma'ruf Zainul Jannah Fadillah Fauzi Jazuli
+input presensi absen 4ZLL2J| Presensi absen 4ZLL2J tidak ditemukan.
+input presensi absen 58II3N| Presensi absen 58II3N dikonfirmasi.
+input presensi absen 58II3N| Presensi absen 58II3N dikonfirmasi.
+input presensi absen MZJFFJ| Ma'ruf Zainul Jannah, Fadilah Firdaus, Jannah Fadilah
+input presensi absen 4ZLL2J| Presensi absen 4ZLL2J tidak ditemukan.
+input presensi absen 3S3A54| Presensi absen 3S3A54 dicatat.
+input presensi absen MZJFFJ| Ma'ruf Zainul Jannah, Fadilah Firdaus, Jannah Fadilah
+input presensi absen 3S3A54| Presensi absen 3S3A54 dicatat.
+input presensi absen NAJGMF| Terima kasih atas partisipasi Anda dalam presensi absen NAJGMF.
+Tes|sellationControlShader 
+input presensi AWGE5K| Presensi AWGE5K dapat dilakukan dengan menggunakan aplikasi presensi yang disediakan oleh pihak manajemen. Aplikasi ini dapat diunduh melalui toko aplikasi atau situs web resmi AWGE5K. Setelah aplikasi terinstal, pengguna dapat memasukkan informasi login dan mulai mencatat presensi. Aplikasi ini juga memungkinkan pengguna untuk melihat riwayat presensi mereka dan mencetak laporan presensi.
+input presensi absen 7KMZFJ| 7KMZFJ adalah kode presensi yang digunakan untuk menandai kehadiran seseorang. Kode ini biasanya digunakan untuk mencatat waktu masuk dan keluar dari suatu lokasi atau untuk mencatat waktu masuk dan keluar dari suatu pekerjaan.
+input presensi absen 7KMZFJ| 7KMZFJ adalah kode presensi yang digunakan untuk menandai kehadiran seseorang. Kode ini biasanya digunakan untuk mencatat waktu masuk dan keluar dari suatu lokasi atau untuk mencatat waktu masuk dan keluar dari suatu pekerjaan.
+ibuu maaff Aldira aprilia juwita putri hadir yaa inya takut ga rekap absen| Hai Aldira Aprilia Juwita Putri, maaf kami tidak bisa membantu Anda untuk melakukan rekap absen. Anda harus menghubungi pihak sekolah atau kantor Anda untuk informasi lebih lanjut tentang cara melakukan rekap absen. Terima kasih."
 Could you please clarify your question?|I,'m not sure what you mean.
-httpscdndiscordappcomattachments71740393134437174711787159952427704631259677520previewCaveMapbigpngex=657727d0is=6564b2d0hm=4fd94d05a0abfb06aa45e4902d3d2a72d8567e3e6bdd42a50025a3d3274881d9|\n\nThis is a preview of a cave map. It shows a large cave with several tunnels and chambers. The map also shows the location of various items, such as torches, ladders, and chests.
-Pomodoro Start 1 cycle Milestone  update backend untuk user dan admin Version  v020 Hostname  Daffa IP  httpswhatismyipaddresscomip10313910242|\n\nPomodoro Start: Cycle 1 Milestone: Update backend untuk user dan admin Version: v020 Hostname: Daffa IP: 103.139.10.242
-ane.showMessageDialog(null)| (""You have entered an invalid number"");\n"
+httpscdndiscordappcomattachments71740393134437174711787159952427704631259677520previewCaveMapbigpngex=657727d0is=6564b2d0hm=4fd94d05a0abfb06aa45e4902d3d2a72d8567e3e6bdd42a50025a3d3274881d9| This is a preview of a cave map. It shows a large cave with several tunnels and chambers. The map also shows the location of various items, such as torches, ladders, and chests.
+Pomodoro Start 1 cycle Milestone  update backend untuk user dan admin Version  v020 Hostname  Daffa IP  httpswhatismyipaddresscomip10313910242| Pomodoro Start: Cycle 1 Milestone: Update backend untuk user dan admin Version: v020 Hostname: Daffa IP: 103.139.10.242
+ane.showMessageDialog(null)| ("You have entered an invalid number"); 
 Could you please clarify your question?|I,'m not sure what you mean.
 info mahasiswa|\n\nNama : Muhammad Fakhri\n\nNIM : 170411100020\n\nProdi : Sistem Informasi\n\nFakultas : Ilmu Komputer\n\nUniversitas : Universitas Brawijaya
 info keyword|\n\nThe term ""IoT info keyword"" is used to refer to a keyword or phrase that is used to search for information related to the Internet of Things (IoT). This could include topics such as IoT security, IoT applications, IoT devices, IoT networks, and more.
