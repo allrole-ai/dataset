@@ -358,17 +358,17 @@ input presensi TZBUM3| Presensi TZBUM3 telah dicatat. Terima kasih.
 input presensi AJ1RKT| Terima kasih telah melakukan presensi AJ1RKT.
 input presensi VR19XW| Terima kasih telah melakukan presensi VR19XW.
 input preaensi 87Q91M| 87Q91M adalah kode presensi yang valid.
-input presensi 1XTLH6|\n\n1XTLH6 telah hadir pada hari ini.
-input absenti tm L194M2|\n\nL194M2 non è un codice valido. Si prega di fornire ulteriori informazioni per poter fornire una risposta.
-inpit absensi mode tm S6RTPY|\n\nInpit absensi mode tm S6RTPY adalah sebuah sistem yang memungkinkan Anda untuk memasukkan data absensi Anda secara online. Sistem ini memungkinkan Anda untuk memasukkan data absensi Anda dengan cepat dan mudah, dan juga memungkinkan Anda untuk melacak data absensi Anda dengan mudah. Sistem ini juga memungkinkan Anda untuk mengatur pengingat untuk mengingatkan Anda tentang absensi Anda.
-input presensi RB7LZ9|\n\nTerima kasih telah melakukan presensi RB7LZ9.
-input presensi 87EP6V|\n\nTerima kasih telah melakukan presensi dengan nomor 87EP6V.
-input presensi 26GTEL|\n\nTerima kasih telah melakukan presensi hari ini.
-input presensi CHG6SU|\n\nCHG6SU adalah kode presensi untuk menandakan bahwa seseorang telah melakukan check-in di lokasi tertentu.
-input presensi 3RGWUD|\n\n3RGWUD adalah kode presensi yang tidak dikenali. Silakan coba lagi dengan kode presensi yang benar.
-input presensi CHQ6SU|\n\nMaaf, saya tidak mengerti pertanyaan Anda. Mohon dijelaskan lebih lanjut.
-input presensi YYBU89|\n\nTerima kasih, presensi Anda telah diterima.
-input presensi 2RPSFL|\n\n2RPSFL adalah kode untuk menandakan bahwa seseorang hadir pada suatu kegiatan. Kode ini merupakan singkatan dari ""Riwayat Presensi Sistem Formal""."
+input presensi 1XTLH6| 1XTLH6 telah hadir pada hari ini.
+input absenti tm L194M2| L194M2 non è un codice valido. Si prega di fornire ulteriori informazioni per poter fornire una risposta.
+inpit absensi mode tm S6RTPY| Inpit absensi mode tm S6RTPY adalah sebuah sistem yang memungkinkan Anda untuk memasukkan data absensi Anda secara online. Sistem ini memungkinkan Anda untuk memasukkan data absensi Anda dengan cepat dan mudah, dan juga memungkinkan Anda untuk melacak data absensi Anda dengan mudah. Sistem ini juga memungkinkan Anda untuk mengatur pengingat untuk mengingatkan Anda tentang absensi Anda.
+input presensi RB7LZ9| Terima kasih telah melakukan presensi RB7LZ9.
+input presensi 87EP6V| Terima kasih telah melakukan presensi dengan nomor 87EP6V.
+input presensi 26GTEL| Terima kasih telah melakukan presensi hari ini.
+input presensi CHG6SU| CHG6SU adalah kode presensi untuk menandakan bahwa seseorang telah melakukan check-in di lokasi tertentu.
+input presensi 3RGWUD| 3RGWUD adalah kode presensi yang tidak dikenali. Silakan coba lagi dengan kode presensi yang benar.
+input presensi CHQ6SU| Maaf, saya tidak mengerti pertanyaan Anda. Mohon dijelaskan lebih lanjut.
+input presensi YYBU89| Terima kasih, presensi Anda telah diterima.
+input presensi 2RPSFL| 2RPSFL adalah kode untuk menandakan bahwa seseorang hadir pada suatu kegiatan. Kode ini merupakan singkatan dari ""Riwayat Presensi Sistem Formal""."
 input presensi UXCE39|\n\nPresensi UXCE39 telah dikonfirmasi. Terima kasih atas partisipasi Anda.
 input presensi GYZN9Y|\n\nTerima kasih telah melakukan presensi GYZN9Y.
 input presensi CXV72J|\n\nInput presensi CXV72J tidak dapat dilakukan karena CXV72J merupakan kode kendaraan.
