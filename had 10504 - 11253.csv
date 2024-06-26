@@ -398,16 +398,16 @@ input presensi K485WL| Kode presensi K485WL adalah kode presensi untuk mengakses
 input presensi JBIK8A| | Nama | Presensi |\n|------|----------|\n| Andi | Hadir    |\n| Budi | Tidak Hadir |\n| Caca | Hadir |
 input presensi CXV72J| Input presensi CXV72J tidak dapat dilakukan karena CXV72J merupakan kode kendaraan.
 input presensi ITF8JA| Terima kasih telah melakukan presensi ITF8JA.
-input presensi CXV72J|\n\nInput presensi CXV72J tidak dapat dilakukan karena CXV72J merupakan kode kendaraan.
-input presensi MH79HZ|\n\nTerima kasih telah melakukan presensi dengan kode MH79HZ.
-input presensi 72CWYQ|\n\nTerima kasih telah menginput presensi 72CWYQ.
-input presensi KMNJWD|\n\nMaaf, input presensi yang Anda masukkan tidak valid. Silakan coba lagi dengan menggunakan format yang benar.
-input presensi JBlK8A|\n\nInput presensi JBlK8A dapat dilakukan dengan menggunakan aplikasi presensi yang tersedia. Aplikasi ini memungkinkan pengguna untuk memasukkan informasi tentang kehadiran, waktu masuk dan keluar, dan lain-lain. Pengguna juga dapat mengatur pengingat untuk mengingatkan mereka tentang presensi mereka. Aplikasi ini juga memungkinkan pengguna untuk melihat laporan presensi dan melacak kehadiran mereka.
-input presensi 2RPSFL|\n\n2RPSFL adalah kode untuk menandakan bahwa seseorang hadir pada suatu kegiatan. Kode ini merupakan singkatan dari ""Riwayat Presensi Sistem Formal"".
-ga diajak nonton|\n\nHalo! Tentu saja saya akan senang sekali jika Anda mengajak saya nonton. Apa yang ingin Anda tonton?
-input presensi ITF8JA|\n\nTerima kasih telah melakukan presensi ITF8JA.
-input presensi 2RPSFL|\n\n2RPSFL adalah kode untuk menandakan bahwa seseorang hadir pada suatu kegiatan. Kode ini merupakan singkatan dari ""Riwayat Presensi Sistem Formal"".
-I input presensi KMNJWD|\n\nMaaf, input presensi yang Anda masukkan tidak valid. Silakan coba lagi dengan menggunakan format yang benar.
+input presensi CXV72J| Input presensi CXV72J tidak dapat dilakukan karena CXV72J merupakan kode kendaraan.
+input presensi MH79HZ| Terima kasih telah melakukan presensi dengan kode MH79HZ.
+input presensi 72CWYQ| Terima kasih telah menginput presensi 72CWYQ.
+input presensi KMNJWD| Maaf, input presensi yang Anda masukkan tidak valid. Silakan coba lagi dengan menggunakan format yang benar.
+input presensi JBlK8A| Input presensi JBlK8A dapat dilakukan dengan menggunakan aplikasi presensi yang tersedia. Aplikasi ini memungkinkan pengguna untuk memasukkan informasi tentang kehadiran, waktu masuk dan keluar, dan lain-lain. Pengguna juga dapat mengatur pengingat untuk mengingatkan mereka tentang presensi mereka. Aplikasi ini juga memungkinkan pengguna untuk melihat laporan presensi dan melacak kehadiran mereka.
+input presensi 2RPSFL| 2RPSFL adalah kode untuk menandakan bahwa seseorang hadir pada suatu kegiatan. Kode ini merupakan singkatan dari ""Riwayat Presensi Sistem Formal"".
+ga diajak nonton| Halo! Tentu saja saya akan senang sekali jika Anda mengajak saya nonton. Apa yang ingin Anda tonton?
+input presensi ITF8JA| Terima kasih telah melakukan presensi ITF8JA.
+input presensi 2RPSFL| 2RPSFL adalah kode untuk menandakan bahwa seseorang hadir pada suatu kegiatan. Kode ini merupakan singkatan dari ""Riwayat Presensi Sistem Formal"".
+I input presensi KMNJWD| Maaf, input presensi yang Anda masukkan tidak valid. Silakan coba lagi dengan menggunakan format yang benar.
 input presensi PT7AXY|\n\nTerima kasih telah melakukan presensi PT7AXY. Kami mencatat presensi Anda dan menghargai waktu Anda.
 input presensi CWDF73|\n\nCWDF73 hadir pada hari Senin, tanggal 15 Juni 2020.
 input presensi RBC5YW|\n\nRBC5YW adalah kode presensi untuk menandakan bahwa seseorang telah hadir di suatu tempat. Kode ini biasanya digunakan oleh perusahaan untuk mencatat presensi karyawan. Kode ini terdiri dari lima karakter yang masing-masing menunjukkan jam, menit, hari, bulan, dan tahun.
