@@ -388,16 +388,16 @@ input presensi CXV72J| Input presensi CXV72J tidak dapat dilakukan karena CXV72J
 input presensi IBLELR| Maaf, kode presensi yang Anda masukkan salah.
 input presensi JBIK8A| | Nama | Presensi | |------|----------| | Andi | Hadir    | | Budi | Tidak Hadir | | Caca | Hadir |
 input presensi GYZN9Y| Terima kasih telah melakukan presensi GYZN9Y.
-input presensi K485WL|\n\nKode presensi K485WL adalah kode presensi untuk mengakses sistem presensi online. Kode ini digunakan untuk mengidentifikasi pengguna dan memungkinkan mereka untuk melakukan absensi.
-input presensi 3RGWUD|\n\n3RGWUD: Hadir
-input presensi 22CGL1|\n\nTerima kasih telah melakukan presensi.
-input presensi ITF8JA|\n\nTerima kasih telah melakukan presensi ITF8JA.
-input presensi 12Y7UZ|\n\n12Y7UZ hadir.
-input presensi YMFAWD|\n\nTerima kasih telah melakukan presensi YMFAWD.
-input presensi K485WL|\n\nKode presensi K485WL adalah kode presensi untuk mengakses sistem presensi online. Kode ini digunakan untuk mengidentifikasi pengguna dan memungkinkan mereka untuk melakukan absensi.
-input presensi JBIK8A|\n\n| Nama | Presensi |\n|------|----------|\n| Andi | Hadir    |\n| Budi | Tidak Hadir |\n| Caca | Hadir |
-input presensi CXV72J|\n\nInput presensi CXV72J tidak dapat dilakukan karena CXV72J merupakan kode kendaraan.
-input presensi ITF8JA|\n\nTerima kasih telah melakukan presensi ITF8JA.
+input presensi K485WL| Kode presensi K485WL adalah kode presensi untuk mengakses sistem presensi online. Kode ini digunakan untuk mengidentifikasi pengguna dan memungkinkan mereka untuk melakukan absensi.
+input presensi 3RGWUD| 3RGWUD: Hadir
+input presensi 22CGL1| Terima kasih telah melakukan presensi.
+input presensi ITF8JA| Terima kasih telah melakukan presensi ITF8JA.
+input presensi 12Y7UZ| 12Y7UZ hadir.
+input presensi YMFAWD| Terima kasih telah melakukan presensi YMFAWD.
+input presensi K485WL| Kode presensi K485WL adalah kode presensi untuk mengakses sistem presensi online. Kode ini digunakan untuk mengidentifikasi pengguna dan memungkinkan mereka untuk melakukan absensi.
+input presensi JBIK8A| | Nama | Presensi |\n|------|----------|\n| Andi | Hadir    |\n| Budi | Tidak Hadir |\n| Caca | Hadir |
+input presensi CXV72J| Input presensi CXV72J tidak dapat dilakukan karena CXV72J merupakan kode kendaraan.
+input presensi ITF8JA| Terima kasih telah melakukan presensi ITF8JA.
 input presensi CXV72J|\n\nInput presensi CXV72J tidak dapat dilakukan karena CXV72J merupakan kode kendaraan.
 input presensi MH79HZ|\n\nTerima kasih telah melakukan presensi dengan kode MH79HZ.
 input presensi 72CWYQ|\n\nTerima kasih telah menginput presensi 72CWYQ.
