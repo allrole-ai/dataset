@@ -374,20 +374,20 @@ input presensi GYZN9Y| Terima kasih telah melakukan presensi GYZN9Y.
 input presensi CXV72J| Input presensi CXV72J tidak dapat dilakukan karena CXV72J merupakan kode kendaraan.
 input presensi KMNJWD| Maaf, input presensi yang Anda masukkan tidak valid. Silakan coba lagi dengan menggunakan format yang benar.
 nput presensi 3RGWUD| 3RGWUD adalah kode presensi yang tidak dikenali. Silakan coba lagi dengan kode presensi yang benar.
-input presensi JBIK8A| | Nama | Presensi |\n|------|----------|\n| Andi | Hadir    |\n| Budi | Tidak Hadir |\n| Caca | Hadir |
+input presensi JBIK8A| | Nama | Presensi | |------|----------| | Andi | Hadir    | | Budi | Tidak Hadir | | Caca | Hadir |
 input presensi 22CGL1| Terima kasih telah melakukan presensi.
 input presensi CXV72J| Input presensi CXV72J tidak dapat dilakukan karena CXV72J merupakan kode kendaraan.
 input presensi PT7AXY| Terima kasih telah melakukan presensi PT7AXY. Kami mencatat presensi Anda dan menghargai waktu Anda.
 input absnsi 3IS7RK| Sorry, that is not a valid input.
-input presensi JBIK8A|\n\n| Nama | Presensi |\n|------|----------|\n| Andi | Hadir    |\n| Budi | Tidak Hadir |\n| Caca | Hadir |
-input presensi MH79HZ|\n\nMH79HZ adalah kode untuk mengakses jaringan Wi-Fi. Tidak ada presensi yang berkaitan dengan kode ini.
-P|, et al.\n\nThe effect of a low-carbohydrate, ketogenic diet versus a low-glycemic index diet on glycemic control in type 2 diabetes mellitus.\n\nNutr Metab (Lond). 2008;5:36.
-input presensi UXCE39|\n\nPresensi UXCE39 telah dikonfirmasi. Terima kasih atas partisipasi Anda.
-input presensi 3RGWUD|\n\n3RGWUD adalah kode presensi yang tidak dikenali. Silakan coba lagi dengan kode presensi yang benar.
-input presensi CXV72J|\n\nInput presensi CXV72J tidak dapat dilakukan karena CXV72J merupakan kode kendaraan.
-input presensi IBLELR|\nMaaf, kode presensi yang Anda masukkan salah.
-input presensi JBIK8A|\n\n| Nama | Presensi |\n|------|----------|\n| Andi | Hadir    |\n| Budi | Tidak Hadir |\n| Caca | Hadir |
-input presensi GYZN9Y|\n\nTerima kasih telah melakukan presensi GYZN9Y.
+input presensi JBIK8A| | Nama | Presensi | |------|----------| | Andi | Hadir    | | Budi | Tidak Hadir | | Caca | Hadir |
+input presensi MH79HZ| MH79HZ adalah kode untuk mengakses jaringan Wi-Fi. Tidak ada presensi yang berkaitan dengan kode ini.
+P|, et al. The effect of a low-carbohydrate, ketogenic diet versus a low-glycemic index diet on glycemic control in type 2 diabetes mellitus. Nutr Metab (Lond). 2008;5:36.
+input presensi UXCE39| Presensi UXCE39 telah dikonfirmasi. Terima kasih atas partisipasi Anda.
+input presensi 3RGWUD| 3RGWUD adalah kode presensi yang tidak dikenali. Silakan coba lagi dengan kode presensi yang benar.
+input presensi CXV72J| Input presensi CXV72J tidak dapat dilakukan karena CXV72J merupakan kode kendaraan.
+input presensi IBLELR| Maaf, kode presensi yang Anda masukkan salah.
+input presensi JBIK8A| | Nama | Presensi | |------|----------| | Andi | Hadir    | | Budi | Tidak Hadir | | Caca | Hadir |
+input presensi GYZN9Y| Terima kasih telah melakukan presensi GYZN9Y.
 input presensi K485WL|\n\nKode presensi K485WL adalah kode presensi untuk mengakses sistem presensi online. Kode ini digunakan untuk mengidentifikasi pengguna dan memungkinkan mereka untuk melakukan absensi.
 input presensi 3RGWUD|\n\n3RGWUD: Hadir
 input presensi 22CGL1|\n\nTerima kasih telah melakukan presensi.
