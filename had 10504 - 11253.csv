@@ -548,16 +548,16 @@ input presensi KHKUPI| KHKUPI adalah singkatan dari Keterangan Hadir Karyawan Un
 input presensi HYJFHY|J HYJFHYJ adalah kode presensi yang tidak dikenali. Silakan masukkan kode presensi yang benar.
 input presensi QCX4AB| Terima kasih telah melakukan presensi QCX4AB.
 input presensi W4TLZ3| Maaf, saya tidak mengerti apa yang Anda maksud. Mohon dijelaskan lebih lanjut.
-input presensi BJGXHT|\n\nBJGXHT : Hadir
-input presensi HTLJQV|\n\nHTLJQV adalah singkatan dari Hadir, Tidak Hadir, Ijin, Sakit, Cuti, dan Alpha. Presensi HTLJQV digunakan untuk mencatat kehadiran seseorang di suatu tempat. Setiap singkatan memiliki arti yang berbeda. Hadir (H) berarti seseorang hadir di tempat tersebut, Tidak Hadir (T) berarti seseorang tidak hadir di tempat tersebut, Ijin (I) berarti seseorang memiliki izin untuk tidak hadir di tempat tersebut, Sakit (S) berarti seseorang sakit dan tidak dapat hadir di tempat tersebut, Cuti (C) berarti seseorang sedang cuti dan tidak dapat hadir di tempat tersebut, dan Alpha (A) berarti seseorang tidak dapat hadir di tempat tersebut karena alasan lain.
-input presensi VLL17L|\n\nTerima kasih telah menginput presensi VLL17L.
-input presensi IJ3X3L|\n\nInput presensi IJ3X3L dapat dilakukan dengan menggunakan aplikasi presensi yang tersedia. Aplikasi ini dapat membantu Anda untuk mencatat dan mengatur data presensi karyawan. Aplikasi ini juga dapat membantu Anda untuk mengirimkan laporan presensi kepada atasan Anda. Selain itu, aplikasi ini juga dapat membantu Anda untuk mengatur jam kerja dan mengatur jadwal kerja karyawan.
-input presensi 5P4KVB|\n\n5P4KVB : Hadir
-input presensi W4TLZ3|\n\nMaaf, saya tidak mengerti apa yang Anda maksud. Mohon dijelaskan lebih lanjut.
-input presensi T6RLLY|\n\nTerima kasih telah melakukan presensi.
-cek aproval bimbinga|\n
-cek aproval bimbingan|\n
-input presensi 7R9ESK|\n\nTerima kasih telah melakukan presensi 7R9ESK.
+input presensi BJGXHT| BJGXHT : Hadir
+input presensi HTLJQV| HTLJQV adalah singkatan dari Hadir, Tidak Hadir, Ijin, Sakit, Cuti, dan Alpha. Presensi HTLJQV digunakan untuk mencatat kehadiran seseorang di suatu tempat. Setiap singkatan memiliki arti yang berbeda. Hadir (H) berarti seseorang hadir di tempat tersebut, Tidak Hadir (T) berarti seseorang tidak hadir di tempat tersebut, Ijin (I) berarti seseorang memiliki izin untuk tidak hadir di tempat tersebut, Sakit (S) berarti seseorang sakit dan tidak dapat hadir di tempat tersebut, Cuti (C) berarti seseorang sedang cuti dan tidak dapat hadir di tempat tersebut, dan Alpha (A) berarti seseorang tidak dapat hadir di tempat tersebut karena alasan lain.
+input presensi VLL17L| Terima kasih telah menginput presensi VLL17L.
+input presensi IJ3X3L| Input presensi IJ3X3L dapat dilakukan dengan menggunakan aplikasi presensi yang tersedia. Aplikasi ini dapat membantu Anda untuk mencatat dan mengatur data presensi karyawan. Aplikasi ini juga dapat membantu Anda untuk mengirimkan laporan presensi kepada atasan Anda. Selain itu, aplikasi ini juga dapat membantu Anda untuk mengatur jam kerja dan mengatur jadwal kerja karyawan.
+input presensi 5P4KVB| 5P4KVB : Hadir
+input presensi W4TLZ3| Maaf, saya tidak mengerti apa yang Anda maksud. Mohon dijelaskan lebih lanjut.
+input presensi T6RLLY| Terima kasih telah melakukan presensi.
+cek aproval bimbinga|oke
+cek aproval bimbingan|oke 
+input presensi 7R9ESK| Terima kasih telah melakukan presensi 7R9ESK.
 input presensi DF6HEW|\n\nTerima kasih telah melakukan presensi DF6HEW.
 input presensi NM8XS1|\n\nMaaf, saya tidak mengerti pertanyaan Anda. Silakan dijelaskan lebih lanjut.
 input presensi SHUDWV|\n\nTerima kasih telah melakukan presensi SHUDWV.
