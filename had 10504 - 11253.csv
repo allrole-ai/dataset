@@ -538,16 +538,16 @@ input presensi 5DHZUQ| 5DHZUQ is not a valid input. Please provide a valid input
 input presensi LBJMXG| Terima kasih telah melakukan presensi LBJMXG.
 input presensi DAWHYF| Terima kasih telah melakukan presensi.
 Hai| Hello! How can I help you?
-input  B37HT4|\n\nThe B37HT4 is a model of a John Deere tractor. It is a 4WD tractor with a 37 horsepower engine. It has a hydrostatic transmission and a 3-point hitch. It is designed for light to medium-duty applications such as mowing, tilling, and hauling.
-Lagi apa i|ya\n\nTidak, terima kasih.
-input presensi gm 1KIZYJ|\n\nTerima kasih telah melakukan presensi. Presensi Anda telah berhasil dicatat.
-input presensi gm 1KlZYJ|\n\nTerima kasih telah melakukan presensi. Presensi Anda telah berhasil dicatat.
-input presensi 3KUKAV|\nMaaf, input yang Anda masukkan tidak valid. Silakan coba lagi.
-input presensi YFERH2|\n\nMaaf, kode presensi YFERH2 tidak dikenali. Silakan coba lagi dengan kode presensi yang benar.
-input presensi KHKUPI|\n\nKHKUPI adalah singkatan dari Keterangan Hadir Karyawan Untuk Presensi. Ini adalah kode yang digunakan untuk mencatat presensi karyawan. Kode ini biasanya terdiri dari tiga huruf yang mewakili jenis presensi yang diambil oleh karyawan. Kode KHKUPI biasanya digunakan untuk mencatat presensi masuk, presensi pulang, presensi sakit, presensi izin, dan presensi cuti.
-input presensi HYJFHY|J\n\nHYJFHYJ adalah kode presensi yang tidak dikenali. Silakan masukkan kode presensi yang benar.
-input presensi QCX4AB|\n\nTerima kasih telah melakukan presensi QCX4AB.
-input presensi W4TLZ3|\n\nMaaf, saya tidak mengerti apa yang Anda maksud. Mohon dijelaskan lebih lanjut.
+input  B37HT4| The B37HT4 is a model of a John Deere tractor. It is a 4WD tractor with a 37 horsepower engine. It has a hydrostatic transmission and a 3-point hitch. It is designed for light to medium-duty applications such as mowing, tilling, and hauling.
+Lagi apa i|ya Tidak, terima kasih.
+input presensi gm 1KIZYJ| Terima kasih telah melakukan presensi. Presensi Anda telah berhasil dicatat.
+input presensi gm 1KlZYJ| Terima kasih telah melakukan presensi. Presensi Anda telah berhasil dicatat.
+input presensi 3KUKAV| Maaf, input yang Anda masukkan tidak valid. Silakan coba lagi.
+input presensi YFERH2| Maaf, kode presensi YFERH2 tidak dikenali. Silakan coba lagi dengan kode presensi yang benar.
+input presensi KHKUPI| KHKUPI adalah singkatan dari Keterangan Hadir Karyawan Untuk Presensi. Ini adalah kode yang digunakan untuk mencatat presensi karyawan. Kode ini biasanya terdiri dari tiga huruf yang mewakili jenis presensi yang diambil oleh karyawan. Kode KHKUPI biasanya digunakan untuk mencatat presensi masuk, presensi pulang, presensi sakit, presensi izin, dan presensi cuti.
+input presensi HYJFHY|J HYJFHYJ adalah kode presensi yang tidak dikenali. Silakan masukkan kode presensi yang benar.
+input presensi QCX4AB| Terima kasih telah melakukan presensi QCX4AB.
+input presensi W4TLZ3| Maaf, saya tidak mengerti apa yang Anda maksud. Mohon dijelaskan lebih lanjut.
 input presensi BJGXHT|\n\nBJGXHT : Hadir
 input presensi HTLJQV|\n\nHTLJQV adalah singkatan dari Hadir, Tidak Hadir, Ijin, Sakit, Cuti, dan Alpha. Presensi HTLJQV digunakan untuk mencatat kehadiran seseorang di suatu tempat. Setiap singkatan memiliki arti yang berbeda. Hadir (H) berarti seseorang hadir di tempat tersebut, Tidak Hadir (T) berarti seseorang tidak hadir di tempat tersebut, Ijin (I) berarti seseorang memiliki izin untuk tidak hadir di tempat tersebut, Sakit (S) berarti seseorang sakit dan tidak dapat hadir di tempat tersebut, Cuti (C) berarti seseorang sedang cuti dan tidak dapat hadir di tempat tersebut, dan Alpha (A) berarti seseorang tidak dapat hadir di tempat tersebut karena alasan lain.
 input presensi VLL17L|\n\nTerima kasih telah menginput presensi VLL17L.
