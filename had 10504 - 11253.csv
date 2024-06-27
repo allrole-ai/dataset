@@ -459,25 +459,25 @@ cek aprove bimbingan| Untuk mengecek status aprove bimbingan, Anda dapat mengaks
 input presensi 3IKRI9| Selamat pagi, 3IKRI9 telah hadir pada hari ini. Terima kasih.
 input presensi 3IKRI9| Selamat pagi, 3IKRI9 telah hadir pada hari ini. Terima kasih.
 input presensi R62FCN| Presensi R62FCN telah dikonfirmasi. Terima kasih atas partisipasi Anda.
-input presensi 2SAU39|\n\n2SAU39 telah melakukan presensi.
-input presensi 19TKRX|\n\nPresensi 19TKRX telah dicatat. Terima kasih.
-input presensi 19TKRX|\n\nPresensi 19TKRX telah dicatat. Terima kasih.
+input presensi 2SAU39| 2SAU39 telah melakukan presensi.
+input presensi 19TKRX| Presensi 19TKRX telah dicatat. Terima kasih.
+input presensi 19TKRX| Presensi 19TKRX telah dicatat. Terima kasih.
 Could you please clarify your question?|I,'m not sure what you mean.
-Teunh|out\n\nTeunhout is a small village in the Dutch province of North Brabant. It is located in the municipality of Bergeijk, about 8km south of Eindhoven. The village has a population of about 500 people. The village is known for its traditional Dutch architecture and its beautiful landscape. The village is surrounded by forests and meadows, and is a popular destination for hikers and cyclists. The village also has a few small shops and restaurants.
-input presensi DRY6WJ|\n\nDRY6WJ Hadir
-input presensi FLRIKS|\n\nInput presensi FLRIKS dapat dilakukan dengan menggunakan aplikasi presensi yang telah disediakan oleh FLRIKS. Aplikasi ini dapat diunduh melalui toko aplikasi Google Play Store atau App Store. Setelah aplikasi terinstal, pengguna dapat melakukan login dengan menggunakan username dan password yang telah diberikan oleh FLRIKS. Setelah login berhasil, pengguna dapat memasukkan data presensi sesuai dengan kebutuhan.
-input presensi RB1AW4|\n\nRB1AW4 hadir pada hari Senin, Selasa, Rabu, Kamis, dan Jumat.
-input presensi 9KSGEC|\n\n9KSGEC : Hadir
-input presensi FLRIKS|\n\nInput presensi FLRIKS dapat dilakukan dengan menggunakan aplikasi presensi yang telah disediakan oleh FLRIKS. Aplikasi ini dapat diunduh melalui toko aplikasi Google Play Store atau App Store. Setelah aplikasi terinstal| pengguna dapat melakukan login dengan menggunakan username dan password yang telah diberikan oleh FLRIKS. Setelah login berhasil, pengguna dapat memasukkan data presensi sesuai dengan kebutuhan.
-input presensi FLRlKS|\n\nPresensi FLRlKS telah dicatat. Terima kasih.
-input presensi UBEWEV|\n\nMaaf, kami tidak mengenal istilah UBEWEV. Silakan jelaskan lebih lanjut tentang istilah tersebut.
-input presensi KYU3LP|\n\nPresensi KYU3LP adalah sebuah sistem yang digunakan untuk mencatat kehadiran siswa di sekolah. Sistem ini biasanya terdiri dari sebuah komputer atau tablet yang terhubung ke jaringan sekolah, dan siswa dapat menggunakannya untuk mengisi data kehadiran mereka. Sistem ini juga dapat digunakan untuk mencatat informasi lain seperti jadwal pelajaran, tugas, dan lain-lain.
-kenapa|\n\nKarena mungkin ada beberapa alasan yang membuat Anda merasa bingung. Mungkin Anda tidak memahami topik yang dibahas, atau Anda tidak memiliki informasi yang cukup untuk membuat keputusan. Atau mungkin Anda merasa tidak yakin tentang apa yang harus dilakukan.
-input presensi 2WJVRB|\n\nPresensi 2WJVRB dicatat.
-input presensi V3P4AN|\n\nV3P4AN adalah sistem presensi yang dikembangkan oleh PT. V3P4AN Indonesia. Sistem ini memungkinkan pengguna untuk melakukan absensi dengan mudah dan cepat. Sistem ini juga memungkinkan pengguna untuk melacak lokasi dan waktu absensi, serta menyimpan data absensi untuk analisis lebih lanjut. Sistem ini juga memungkinkan pengguna untuk mengatur jam kerja, mengatur izin, dan mengatur laporan absensi.
-input presensi BQFDYD|\n\nBQFDYD: Tidak Hadir
-input presensi U5T13S|\n\n| Nama | Hadir |\n|------|-------|\n| Andi | Ya    |\n| Budi | Tidak |
-input presensi Q8DSZX|\n\nPresensi Q8DSZX telah dicatat. Terima kasih.
+Teunh|out Teunhout is a small village in the Dutch province of North Brabant. It is located in the municipality of Bergeijk, about 8km south of Eindhoven. The village has a population of about 500 people. The village is known for its traditional Dutch architecture and its beautiful landscape. The village is surrounded by forests and meadows, and is a popular destination for hikers and cyclists. The village also has a few small shops and restaurants.
+input presensi DRY6WJ| DRY6WJ Hadir
+input presensi FLRIKS| Input presensi FLRIKS dapat dilakukan dengan menggunakan aplikasi presensi yang telah disediakan oleh FLRIKS. Aplikasi ini dapat diunduh melalui toko aplikasi Google Play Store atau App Store. Setelah aplikasi terinstal, pengguna dapat melakukan login dengan menggunakan username dan password yang telah diberikan oleh FLRIKS. Setelah login berhasil, pengguna dapat memasukkan data presensi sesuai dengan kebutuhan.
+input presensi RB1AW4| RB1AW4 hadir pada hari Senin, Selasa, Rabu, Kamis, dan Jumat.
+input presensi 9KSGEC| 9KSGEC : Hadir
+input presensi FLRIKS| Input presensi FLRIKS dapat dilakukan dengan menggunakan aplikasi presensi yang telah disediakan oleh FLRIKS. Aplikasi ini dapat diunduh melalui toko aplikasi Google Play Store atau App Store. Setelah aplikasi terinstal pengguna dapat melakukan login dengan menggunakan username dan password yang telah diberikan oleh FLRIKS. Setelah login berhasil, pengguna dapat memasukkan data presensi sesuai dengan kebutuhan.
+input presensi FLRlKS| Presensi FLRlKS telah dicatat. Terima kasih.
+input presensi UBEWEV| Maaf, kami tidak mengenal istilah UBEWEV. Silakan jelaskan lebih lanjut tentang istilah tersebut.
+input presensi KYU3LP| Presensi KYU3LP adalah sebuah sistem yang digunakan untuk mencatat kehadiran siswa di sekolah. Sistem ini biasanya terdiri dari sebuah komputer atau tablet yang terhubung ke jaringan sekolah, dan siswa dapat menggunakannya untuk mengisi data kehadiran mereka. Sistem ini juga dapat digunakan untuk mencatat informasi lain seperti jadwal pelajaran, tugas, dan lain-lain.
+kenapa| Karena mungkin ada beberapa alasan yang membuat Anda merasa bingung. Mungkin Anda tidak memahami topik yang dibahas, atau Anda tidak memiliki informasi yang cukup untuk membuat keputusan. Atau mungkin Anda merasa tidak yakin tentang apa yang harus dilakukan.
+input presensi 2WJVRB| Presensi 2WJVRB dicatat.
+input presensi V3P4AN| V3P4AN adalah sistem presensi yang dikembangkan oleh PT. V3P4AN Indonesia. Sistem ini memungkinkan pengguna untuk melakukan absensi dengan mudah dan cepat. Sistem ini juga memungkinkan pengguna untuk melacak lokasi dan waktu absensi, serta menyimpan data absensi untuk analisis lebih lanjut. Sistem ini juga memungkinkan pengguna untuk mengatur jam kerja, mengatur izin, dan mengatur laporan absensi.
+input presensi BQFDYD| BQFDYD: Tidak Hadir
+input presensi U5T13S| | Nama | Hadir | |------|-------| | Andi | Ya    | | Budi | Tidak |
+input presensi Q8DSZX| Presensi Q8DSZX telah dicatat. Terima kasih.
 input presensi EFBW2S|\n\nTerima kasih telah melakukan presensi EFBW2S.
 input presensi RKH29Z|\n\nRKH29Z adalah kode presensi yang digunakan untuk mencatat kehadiran seseorang di sebuah tempat. Kode ini biasanya digunakan untuk mencatat waktu masuk dan keluar dari sebuah lokasi. Kode ini juga dapat digunakan untuk mencatat jumlah jam kerja yang telah dicapai oleh seseorang.
 input presensi RKH29Z|\n\nRKH29Z adalah kode presensi yang digunakan untuk mencatat kehadiran seseorang di sebuah tempat. Kode ini biasanya digunakan untuk mencatat waktu masuk dan keluar dari sebuah lokasi. Kode ini juga dapat digunakan untuk mencatat jumlah jam kerja yang telah dicapai oleh seseorang.
