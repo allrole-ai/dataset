@@ -478,16 +478,16 @@ input presensi V3P4AN| V3P4AN adalah sistem presensi yang dikembangkan oleh PT. 
 input presensi BQFDYD| BQFDYD: Tidak Hadir
 input presensi U5T13S| | Nama | Hadir | |------|-------| | Andi | Ya    | | Budi | Tidak |
 input presensi Q8DSZX| Presensi Q8DSZX telah dicatat. Terima kasih.
-input presensi EFBW2S|\n\nTerima kasih telah melakukan presensi EFBW2S.
-input presensi RKH29Z|\n\nRKH29Z adalah kode presensi yang digunakan untuk mencatat kehadiran seseorang di sebuah tempat. Kode ini biasanya digunakan untuk mencatat waktu masuk dan keluar dari sebuah lokasi. Kode ini juga dapat digunakan untuk mencatat jumlah jam kerja yang telah dicapai oleh seseorang.
-input presensi RKH29Z|\n\nRKH29Z adalah kode presensi yang digunakan untuk mencatat kehadiran seseorang di sebuah tempat. Kode ini biasanya digunakan untuk mencatat waktu masuk dan keluar dari sebuah lokasi. Kode ini juga dapat digunakan untuk mencatat jumlah jam kerja yang telah dicapai oleh seseorang.
-input presensi UX7AIQ|\n\nTerima kasih telah melakukan presensi.
-input presensi XPXMKF|\n\nTerima kasih telah melakukan presensi XPXMKF.
-input presensi R6MQEG|\n\nTerima kasih telah melakukan presensi dengan kode R6MQEG.
-input presensi BP5ZX9|\n\nTerima kasih telah melakukan presensi.
-minta surat aktif kuliah|\n\nKepada Yth,\n\nMahasiswa/i\n\nUniversitas XYZ\n\nDi Tempat\n\nDengan hormat,\n\nBerdasarkan permintaan Anda, kami dengan senang hati menyampaikan surat aktif kuliah Anda. Surat ini menyatakan bahwa Anda telah terdaftar sebagai mahasiswa aktif di Universitas XYZ dan telah memenuhi semua persyaratan akademik untuk menyelesaikan program studi Anda.\n\nSurat ini juga menyatakan bahwa Anda telah membayar semua biaya yang terkait dengan program studi Anda dan telah menyelesaikan semua kewajiban akademik yang diperlukan.\n\nSurat ini berlaku selama Anda terdaftar sebagai mahasiswa aktif di Universitas XYZ.\n\nKami berharap Anda akan terus menikmati pendidikan di Universitas XYZ dan berhasil menyelesaikan program studi Anda dengan sukses.\n\nHormat kami,\n\nUniversitas XYZ
-input presensi UBEWEV|\n\nMaaf, kami tidak mengenal istilah UBEWEV. Silakan jelaskan lebih lanjut tentang istilah tersebut.
-input presensi UBEWEV|\n\nMaaf, kami tidak mengenal istilah UBEWEV. Silakan jelaskan lebih lanjut tentang istilah tersebut.
+input presensi EFBW2S| Terima kasih telah melakukan presensi EFBW2S.
+input presensi RKH29Z| RKH29Z adalah kode presensi yang digunakan untuk mencatat kehadiran seseorang di sebuah tempat. Kode ini biasanya digunakan untuk mencatat waktu masuk dan keluar dari sebuah lokasi. Kode ini juga dapat digunakan untuk mencatat jumlah jam kerja yang telah dicapai oleh seseorang.
+input presensi RKH29Z| RKH29Z adalah kode presensi yang digunakan untuk mencatat kehadiran seseorang di sebuah tempat. Kode ini biasanya digunakan untuk mencatat waktu masuk dan keluar dari sebuah lokasi. Kode ini juga dapat digunakan untuk mencatat jumlah jam kerja yang telah dicapai oleh seseorang.
+input presensi UX7AIQ| Terima kasih telah melakukan presensi.
+input presensi XPXMKF| Terima kasih telah melakukan presensi XPXMKF.
+input presensi R6MQEG| Terima kasih telah melakukan presensi dengan kode R6MQEG.
+input presensi BP5ZX9| Terima kasih telah melakukan presensi.
+minta surat aktif kuliah| Kepada Yth, Mahasiswa/i Universitas XYZ Di Tempat Dengan hormat, Berdasarkan permintaan Anda, kami dengan senang hati menyampaikan surat aktif kuliah Anda. Surat ini menyatakan bahwa Anda telah terdaftar sebagai mahasiswa aktif di Universitas XYZ dan telah memenuhi semua persyaratan akademik untuk menyelesaikan program studi Anda. Surat ini juga menyatakan bahwa Anda telah membayar semua biaya yang terkait dengan program studi Anda dan telah menyelesaikan semua kewajiban akademik yang diperlukan. Surat ini berlaku selama Anda terdaftar sebagai mahasiswa aktif di Universitas XYZ. Kami berharap Anda akan terus menikmati pendidikan di Universitas XYZ dan berhasil menyelesaikan program studi Anda dengan sukses. Hormat kami, Universitas XYZ
+input presensi UBEWEV| Maaf, kami tidak mengenal istilah UBEWEV. Silakan jelaskan lebih lanjut tentang istilah tersebut.
+input presensi UBEWEV| Maaf, kami tidak mengenal istilah UBEWEV. Silakan jelaskan lebih lanjut tentang istilah tersebut.
 da di gambar nya gitu|\n\n![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/220px-Cat03.jpg)
 input presensi 93QeBR|\n\nMaaf, input presensi yang Anda masukkan tidak valid. Silakan coba lagi dengan memasukkan kode presensi yang benar.
 input presensi HVP8B1|\n\nPresensi HVP8B1 dapat dilakukan dengan menggunakan aplikasi absensi yang telah disediakan oleh sekolah. Aplikasi ini dapat diakses melalui website sekolah atau melalui aplikasi mobile yang tersedia di Google Play Store. Setelah masuk ke aplikasi, siswa dapat memilih kelasnya dan memasukkan data presensi. Data presensi yang dimasukkan akan dikirimkan ke server sekolah dan dapat dilihat oleh guru.
