@@ -578,30 +578,30 @@ input presensi TDJD8C| Untuk menginput presensi TDJD8C Anda harus mengakses apli
 input presensi BM4ICQ| Untuk mengisi presensi BM4ICQ Anda harus mengakses aplikasi presensi yang telah disediakan oleh pihak sekolah  Setelah masuk ke aplikasi Anda dapat memilih kelas BM4ICQ dan mengisi presensi sesuai dengan jadwal yang telah ditentukan  Anda juga dapat mengisi informasi lain seperti alasan keterlambatan atau alasan tidak hadir 
 input presensi BM4ICQ| Untuk mengisi presensi BM4ICQ Anda harus mengakses aplikasi presensi yang telah disediakan oleh pihak sekolah  Setelah masuk ke aplikasi Anda dapat memilih kelas BM4ICQ dan mengisi presensi sesuai dengan jadwal yang telah ditentukan  Anda juga dapat mengisi informasi lain seperti alasan keterlambatan atau alasan tidak hadir 
 input presensi IJ3X3L| Input presensi IJ3X3L dapat dilakukan dengan menggunakan aplikasi presensi yang tersedia  Aplikasi ini dapat membantu Anda untuk mencatat dan mengatur data presensi karyawan  Aplikasi ini juga dapat membantu Anda untuk mengirimkan laporan presensi kepada atasan Anda  Selain itu aplikasi ini juga dapat membantu Anda untuk mengatur jam kerja dan mengatur jadwal kerja karyawan 
-input presensi T5MRKW|\n\nT5MRKW adalah sebuah sistem presensi yang digunakan untuk mencatat dan mengawasi kehadiran karyawan. Sistem ini menggunakan kartu RFID atau kartu magnetik untuk membaca data kehadiran karyawan. Setiap karyawan memiliki kartu RFID atau magnetik yang berisi informasi tentang identitas mereka. Ketika karyawan datang ke tempat kerja mereka harus menempelkan kartu mereka ke mesin presensi untuk membaca data kehadiran mereka. Setelah data dibaca mesin presensi akan mencatat waktu masuk dan keluar karyawan. Data ini kemudian dapat dilihat oleh manajer untuk mengawasi kehadiran karyawan.
-input presensi TDJD8C|\n\nUntuk menginput presensi TDJD8C Anda harus mengakses aplikasi presensi yang telah disediakan oleh perusahaan Anda. Setelah masuk ke aplikasi, Anda dapat mencari kode TDJD8C dan mengkliknya untuk mengakses halaman presensi. Di halaman ini, Anda dapat mengisi informasi presensi yang diperlukan, seperti jam masuk, jam pulang, dan jenis presensi. Setelah selesai, Anda dapat menyimpan informasi presensi dan mengirimkannya untuk diverifikasi.
-input presensi T6RLLY|\n\nPresensi T6RLLY telah dicatat. Terima kasih.
-input E26GVE|\n\nE26GVE is a model number for a GE refrigerator.
-input presensi QMFRWH|\n\nMaaf, saya tidak mengerti maksud pertanyaan Anda. Mohon dijelaskan lebih lanjut.
-input presensi AAWPAN|\n\nAAWPAN adalah singkatan dari Asisten Administrasi Wajib Pajak dan merupakan program yang dikembangkan oleh Direktorat Jenderal Pajak untuk membantu wajib pajak dalam mengelola dan mengurus administrasi pajak. Presensi AAWPAN dapat dilakukan dengan mengakses situs web resmi AAWPAN dan mengisi formulir yang tersedia. Setelah mengisi formulir, wajib pajak harus mengirimkan bukti pembayaran pajak yang relevan dan dokumen lain yang diperlukan. Setelah semua dokumen terkirim, wajib pajak akan menerima konfirmasi dari AAWPAN dan dapat mengakses informasi tentang presensi mereka.
-input presensi CPZN5J|\n\nUntuk menginput presensi CPZN5J, Anda harus mengakses sistem presensi yang tersedia di kantor Anda. Setelah masuk ke sistem, Anda dapat mencari kode presensi CPZN5J dan mengkliknya untuk menandai presensi Anda.
-input presensi L2LURZ|\n\nPresensi L2LURZ telah dikirimkan. Terima kasih.
-input presensi QMFRWH|\n\nMaaf, saya tidak mengerti maksud pertanyaan Anda. Mohon dijelaskan lebih lanjut.
-input presensi B3Z4Y1|\n\nTerima kasih telah melakukan presensi B3Z4Y1.
-input presensi HVKG5M|\n\nTerima kasih telah melakukan presensi HVKG5M.
-input presensi HVKG5M|\n\nTerima kasih telah melakukan presensi HVKG5M.
-input presensi 2PMRCC|\n\n1. \nNama : John Doe\nTanggal : 10 April 2020\nStatus : Hadir
-input presensi U728UE|\n\nPrsensi U728UE telah dicatat. Terima kasih.
-input presensi HVKG5M|\n\nTeima kasih telah melakukan presensi HVKG5M.
-I,'m not sure what you mean|Could you please clarify your question?
-Teung|\n\nTeung is a Thai word that means ""light"" or ""brightness."" It is often used to describe a person's physical appearance, such as when someone has a bright and glowing complexion. It can also be used to describe a person's inner qualities, such as when someone is said to have a bright and cheerful personality.
-input presensi 2PMRCC|\n\n1. \nNama : John Doe\nTanggal : 10 April 2020\nStatus : Hadir
-input presensi MDKIL5|\n\nTerima kasih telah menginput presensi MDKIL5.
-input presensi HE59IU|\n\nTerima kasih telah melakukan presensi dengan nomor HE59IU.
-input presensi MI4743|\n\nTerima kasih telah mengikuti kelas MI4743. Presensi Anda telah dicatat.
+input presensi T5MRKW| T5MRKW adalah sebuah sistem presensi yang digunakan untuk mencatat dan mengawasi kehadiran karyawan  Sistem ini menggunakan kartu RFID atau kartu magnetik untuk membaca data kehadiran karyawan  Setiap karyawan memiliki kartu RFID atau magnetik yang berisi informasi tentang identitas mereka  Ketika karyawan datang ke tempat kerja mereka harus menempelkan kartu mereka ke mesin presensi untuk membaca data kehadiran mereka  Setelah data dibaca mesin presensi akan mencatat waktu masuk dan keluar karyawan  Data ini kemudian dapat dilihat oleh manajer untuk mengawasi kehadiran karyawan 
+input presensi TDJD8C| Untuk menginput presensi TDJD8C Anda harus mengakses aplikasi presensi yang telah disediakan oleh perusahaan Anda  Setelah masuk ke aplikasi Anda dapat mencari kode TDJD8C dan mengkliknya untuk mengakses halaman presensi  Di halaman ini Anda dapat mengisi informasi presensi yang diperlukan seperti jam masuk jam pulang dan jenis presensi  Setelah selesai Anda dapat menyimpan informasi presensi dan mengirimkannya untuk diverifikasi 
+input presensi T6RLLY| Presensi T6RLLY telah dicatat  Terima kasih 
+input E26GVE| E26GVE is a model number for a GE refrigerator 
+input presensi QMFRWH| Maaf saya tidak mengerti maksud pertanyaan Anda  Mohon dijelaskan lebih lanjut 
+input presensi AAWPAN| AAWPAN adalah singkatan dari Asisten Administrasi Wajib Pajak dan merupakan program yang dikembangkan oleh Direktorat Jenderal Pajak untuk membantu wajib pajak dalam mengelola dan mengurus administrasi pajak  Presensi AAWPAN dapat dilakukan dengan mengakses situs web resmi AAWPAN dan mengisi formulir yang tersedia  Setelah mengisi formulir wajib pajak harus mengirimkan bukti pembayaran pajak yang relevan dan dokumen lain yang diperlukan  Setelah semua dokumen terkirim wajib pajak akan menerima konfirmasi dari AAWPAN dan dapat mengakses informasi tentang presensi mereka 
+input presensi CPZN5J| Untuk menginput presensi CPZN5J Anda harus mengakses sistem presensi yang tersedia di kantor Anda  Setelah masuk ke sistem Anda dapat mencari kode presensi CPZN5J dan mengkliknya untuk menandai presensi Anda 
+input presensi L2LURZ| Presensi L2LURZ telah dikirimkan  Terima kasih 
+input presensi QMFRWH| Maaf saya tidak mengerti maksud pertanyaan Anda  Mohon dijelaskan lebih lanjut 
+input presensi B3Z4Y1| Terima kasih telah melakukan presensi B3Z4Y1 
+input presensi HVKG5M| Terima kasih telah melakukan presensi HVKG5M 
+input presensi HVKG5M| Terima kasih telah melakukan presensi HVKG5M 
+input presensi 2PMRCC| 1   Nama : John Doe Tanggal : 10 April 2020 Status : Hadir
+input presensi U728UE| Prsensi U728UE telah dicatat  Terima kasih 
+input presensi HVKG5M| Teima kasih telah melakukan presensi HVKG5M 
+I'm not sure what you mean|Could you please clarify your question?
+Teung| Teung is a Thai word that means "light" or "brightness " It is often used to describe a person's physical appearance such as when someone has a bright and glowing complexion  It can also be used to describe a person's inner qualities such as when someone is said to have a bright and cheerful personality 
+input presensi 2PMRCC| 1   Nama : John Doe Tanggal : 10 April 2020 Status : Hadir
+input presensi MDKIL5| Terima kasih telah menginput presensi MDKIL5 
+input presensi HE59IU| Terima kasih telah melakukan presensi dengan nomor HE59IU 
+input presensi MI4743|\n\nTerima kasih telah mengikuti kelas MI4743  Presensi Anda telah dicatat 
 input presensi GKRHMG|\n\nPresensi GKRHMG telah berhasil dimasukkan. Terima kasih.
-input presensi YNVXWE|\n\nMaaf, kami tidak dapat memahami input yang Anda masukkan. Mohon masukkan input yang benar.
-input presensi CYTW17|\n\nUntuk menginput presensi di kelas CYTW17, Anda dapat menggunakan aplikasi presensi yang telah disediakan oleh pihak sekolah. Anda dapat mengakses aplikasi tersebut melalui website sekolah atau melalui aplikasi mobile yang tersedia di Google Play Store. Setelah masuk ke aplikasi, Anda dapat memilih kelas CYTW17 dan memasukkan data presensi sesuai dengan jadwal yang telah ditentukan.
+input presensi YNVXWE|\n\nMaaf kami tidak dapat memahami input yang Anda masukkan. Mohon masukkan input yang benar.
+input presensi CYTW17|\n\nUntuk menginput presensi di kelas CYTW17 Anda dapat menggunakan aplikasi presensi yang telah disediakan oleh pihak sekolah. Anda dapat mengakses aplikasi tersebut melalui website sekolah atau melalui aplikasi mobile yang tersedia di Google Play Store. Setelah masuk ke aplikasi, Anda dapat memilih kelas CYTW17 dan memasukkan data presensi sesuai dengan jadwal yang telah ditentukan.
 input presensi HVKG5M|\n\nTerima kasih telah melakukan presensi HVKG5M.
 input presensi YNVXWE|\n\nMaaf, kami tidak dapat memahami input yang Anda masukkan. Mohon masukkan input yang benar.
 input presensi CYTW17|\n\nUntuk melakukan presensi di kelas CYTW17, Anda dapat mengakses aplikasi presensi yang telah disediakan oleh pihak sekolah. Setelah masuk ke aplikasi, Anda dapat memilih nama kelas dan mengisi data presensi sesuai dengan kelas yang dipilih. Setelah selesai, Anda dapat menyimpan data presensi dan mencetak laporan presensi.
